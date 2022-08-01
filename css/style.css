@@ -994,7 +994,11 @@ section.gallery .gallery-work input.item-type-3:checked~.items .item:not(.item-t
 }
 
 
-
+@media (max-width: 450px) {
+    section.contacts .overlay .testimonials .slider .carousel-item {
+      min-height: 450px;
+    }
+  }
 
 .loader {
     border: 16px solid #f3f3f3; /* Light grey */
