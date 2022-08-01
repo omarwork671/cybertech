@@ -1,6 +1,6 @@
 .overlay-pages{
     min-height: 70vh;
-    background: linear-gradient(to right, rgba(46, 178, 181, 0.8), RGBA(58, 180, 242, 0.5));
+    background: linear-gradient(to left, rgba(31, 69, 120, 1), rgba(36, 79, 135, 1));
 }
 
 .btn-page{
